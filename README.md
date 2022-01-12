@@ -1,7 +1,7 @@
 # Hello, my name is Cristian Marin
 ### Full-stack developer
 
-I'm a software developer for more than three years and soon graduate in computer engineering at the open university of catalunya (UOC).
+I'm a software developer for more than four years and soon graduate in computer engineering at the open university of catalunya (UOC).
 
 <div align="center">
   <a href="https://github.com/marinsan">
