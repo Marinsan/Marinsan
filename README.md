@@ -22,9 +22,8 @@ I'm a software developer with over 6 years of experience building scalable and m
  
 <div> 
   <a href="https://instagram.com/marinsan6" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%405DE6?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariin6@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cristian-marin-tejeda-7a5b01184" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/marinsan/marinsan/blob/output/github-contribution-grid-snake.svg)
- 
+  <a href="mailto:mariin6@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cmarint" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
 </div>
