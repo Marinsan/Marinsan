@@ -1,7 +1,7 @@
 # Hello, my name is Cristian Marin
 ### 💻 Software Developer | Computer Engineer (UOC)
 
-I'm a software developer with over 6 years of experience building scalable and maintainable applications. I hold a degree in Computer Engineering from the Open University of Catalonia (UOC), where I developed a strong foundation in algorithms, system architecture, and software design.
+I'm a software developer with over 8 years of experience building scalable and maintainable applications. I hold a degree in Computer Engineering from the Open University of Catalonia (UOC), where I developed a strong foundation in algorithms, system architecture, and software design.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
